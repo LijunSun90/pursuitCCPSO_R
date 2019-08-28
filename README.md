@@ -1,4 +1,7 @@
 
+This repository is transferred to https://github.com/LijunSun90/pursuitCCPSOR
+
+
 ## Cooperative Coevolution PSO for Robots (CCPSO-R)
 
 This is an open-source GitHub project complementary to the jornal paper, 
